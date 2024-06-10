@@ -31,7 +31,6 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/siripujitha01/MERN_Chat_Application.git
-   cd chat-app
    ```
 
 2. Install backend dependencies:
